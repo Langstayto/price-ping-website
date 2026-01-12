@@ -58,7 +58,7 @@ export default function DataDeletionPage() {
       <p className="mb-4">
         If you have questions, contact:
         <br />
-        <strong>pricepings.com</strong>
+        <strong>pricepings@gmail.com</strong>
       </p>
 
       <p className="text-xs text-gray-500 mt-10">
