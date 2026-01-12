@@ -88,7 +88,7 @@ export default function PrivacyPolicyPage() {
       <p className="mb-4">
         If you have any questions regarding this policy, you may contact us at:
         <br />
-        <strong>privacy@yourdomain.com</strong>
+        <strong>pricepings@gmail.com</strong>
       </p>
 
       <p className="text-xs text-gray-500 mt-10">
